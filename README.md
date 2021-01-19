@@ -1,5 +1,4 @@
-# coding_test_practice
-*personal coding test practice
+# Coding Test Practice
 
 - - -
 
