@@ -1,5 +1,7 @@
 # coding_test_practice
-personal coding test practice
+*personal coding test practice
+
+- - -
 
 1) Greedy Algorithm
 2) Implementation
